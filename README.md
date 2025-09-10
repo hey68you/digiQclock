@@ -21,8 +21,12 @@ The following CLI parameters may be passed when running from the command line:
 --bg-end       ===> background end gradient color (if you don't want gradient make sure to pass same value that you passed for --bg-start)
 --offset-hours ===> e.g. for different time-zones (use minus sign or just plain number for forward e.g. '--offset-hours -3' or '--offset-hours 5')
 --win-title    ===> use quotes for titles with spaces e.g. --win-title 'Los Angeles')
+--font         ===> name of font .otf /.ttf file (must be in same folder as the executable)
 --no-italics   ===> only need to add this flag (default is using italic font)
 --24hrs        ===> only need to add this flag (default is 12hr AM/PM implied )
+--hide-secs    ===> don't show seconds
+--frameless    ===> borderless window
+--hide-dimmer  ===> don't display the 'ghost' background 00:00:00 LED effect (good if you're not using monospaced fonts)
 
 Here's a full example:
 
