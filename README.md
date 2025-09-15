@@ -34,3 +34,5 @@ Here's a full example:
 > ./DigiQClock --fg '#000000' --bg-start lightblue --bg-end lightblue --offset-hours -3 --win-title 'Los Angeles' --no-italics --24hrs
 
 
+```
+- on MacOSX, you can right-click to remove the window frame and stick-on-top (right-click toggles this back and forth)
