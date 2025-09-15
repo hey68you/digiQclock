@@ -27,6 +27,7 @@ The following CLI parameters may be passed when running from the command line:
 --hide-secs    ===> don't show seconds
 --frameless    ===> borderless window
 --hide-dimmer  ===> don't display the 'ghost' background 00:00:00 LED effect (good if you're not using monospaced fonts)
+--blink-colon  ===> blinking colon separator
 
 Here's a full example:
 
