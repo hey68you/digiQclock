@@ -28,6 +28,7 @@ The following CLI parameters may be passed when running from the command line:
 --frameless    ===> borderless window
 --hide-dimmer  ===> don't display the 'ghost' background 00:00:00 LED effect (good if you're not using monospaced fonts)
 --blink-colon  ===> blinking colon separator
+--show-border  ===> show a 1pt border of same color as foreground color
 
 Here's a full example:
 
